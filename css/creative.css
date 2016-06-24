@@ -242,6 +242,11 @@ header .header-content .header-content-inner h1 a {
     color: white;
 }
 
+header .header-content .header-content-inner h1 a:hover {
+    text-decoration: none;
+    color: gray;
+}
+
 header .header-content .header-content-inner hr {
     margin: 30px auto;
 }
